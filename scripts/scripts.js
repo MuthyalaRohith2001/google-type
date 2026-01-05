@@ -12,5 +12,5 @@ $(document).ready(function () {
 	}
 	$('#grapes').mouseover(run);
 	// end the fox and the grapes scripts
-	console.log("Hello")
+	console.log("Hello World!")
 });
