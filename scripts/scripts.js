@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
 
 	// the fox and the grapes scripts
 	var width = $(window).width() - 250;
@@ -12,5 +12,5 @@ $(document).ready(function() {
 	}
 	$('#grapes').mouseover(run);
 	// end the fox and the grapes scripts
-
+	console.log("Hello")
 });
